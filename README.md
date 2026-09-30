@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=princessatoru&style=for-the-badge&color=121212&label=_　_residents_　" alt="profile view counter"> 
+![](https://komarev.com/ghpvc/?username=princessatoru&label=residents&style=plastic&color=grey) 
 <br>
 
 sup I'm working on this thing. 
