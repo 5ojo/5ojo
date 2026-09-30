@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=princessatoru&label=residents&style=plastic&color=grey) 
+![](https://komarev.com/ghpvc/?username=princessatoru&label=DEATHS&style=plastic&color=red) 
 <br>
 
 sup I'm working on this thing. 
