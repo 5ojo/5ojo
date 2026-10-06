@@ -31,6 +31,7 @@ ${{\color{#FFCEE3}{\textsf{ triple sona ! }}}}$
 
 <br>
 
-${{\color{#FFCEE3}{\textsf{ working on ata..　　𐂯 }}}}$
-      ⠀⠀⠀<a href="https://en.pronouns.page/@5ojo">prnpage ! </a>
+<a href="https://5ojo.atabook.org/?page=1">新book </a>　　
+${{\color{#FFCEE3}{\textsf{ 　　𐂯 }}}}$
+      ⠀⠀⠀<a href="https://en.pronouns.page/@5ojo">prnpage </a>
       
