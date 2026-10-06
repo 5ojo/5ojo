@@ -1,4 +1,36 @@
-![](https://komarev.com/ghpvc/?username=princessatoru&label=DEATHS&style=plastic&color=red) 
+<div align="center">
+  
+${{\color{#FFCEE3}{\textsf{ triple sona ! }}}}$
+<br>
 <br>
 
-sup I'm working on this thing. 
+<div id="header" align="center">
+  
+![](https://komarev.com/ghpvc/?username=princessatoru&label=𑄝&style=plastic&color=FFCEE3) 
+
+<div align="center">
+
+<img width="1080" height="665" alt="Image" src="https://files.catbox.moe/t6drvo.png" />
+<br>
+                                              <details>
+  <summary>
+     ${{\color{#FFCEE3}{\texttt{　doki4 }}}}$
+  </summary>
+
+
+
+[papa adis](https://github.com/F-02-14-23) <br>
+
+[lil sister glam](https://github.com/girlslikeguns)  <br>
+
+[lil brother ather](https://github.com/fyshiguro)  <br>
+
+
+</details>
+
+
+<br>
+
+${{\color{#FFCEE3}{\textsf{ working on ata..　　𐂯 }}}}$
+      ⠀⠀⠀<a href="https://en.pronouns.page/@5ojo">prnpage ! </a>
+      
