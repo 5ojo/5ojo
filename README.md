@@ -1,5 +1,10 @@
 <div align="center">
   
+${{\color{#8a2735}{\textsf{ DO NOT COPY MY PONIES }}}}$
+<br>
+
+<div align="center">
+  
 ${{\color{#FFCEE3}{\textsf{ triple sona ! }}}}$
 <br>
 <br>
