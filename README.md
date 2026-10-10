@@ -2,11 +2,11 @@
   
 ${{\color{#8a2735}{\textsf{ DO NOT COPY MY PONIES }}}}$
 <br>
+<br>
 
 <div align="center">
   
 ${{\color{#FFCEE3}{\textsf{ triple sona ! }}}}$
-<br>
 <br>
 
 <div id="header" align="center">
