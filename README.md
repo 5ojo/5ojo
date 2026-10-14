@@ -1,25 +1,18 @@
 <div align="center">
   
-${{\color{#8a2735}{\textsf{ DO NOT COPY MY PONIES }}}}$
-<br>
-<br>
-
-<div align="center">
-  
-${{\color{#FFCEE3}{\textsf{ triple sona ! }}}}$
+${{\color{#8a2735}{\textsf{DO NOT COPY MY PONIES }}}}$
 <br>
 
 <div id="header" align="center">
   
-![](https://komarev.com/ghpvc/?username=princessatoru&label=𑄝&style=plastic&color=FFCEE3) 
+![](https://komarev.com/ghpvc/?username=princessatoru&label=𑄝&style=plastic&color=grey) 
 
 <div align="center">
 
-<img width="1080" height="665" alt="Image" src="https://files.catbox.moe/t6drvo.png" />
-<br>
-                                              <details>
+![Alt](https://files.catbox.moe/6n4zjh.png)   
+<details>
   <summary>
-     ${{\color{#FFCEE3}{\texttt{　doki4 }}}}$
+     ${{\color{#fffff}{\texttt{　doki4 }}}}$
   </summary>
 
 
@@ -37,6 +30,6 @@ ${{\color{#FFCEE3}{\textsf{ triple sona ! }}}}$
 <br>
 
 <a href="https://5ojo.atabook.org/?page=1">新book </a>　　
-${{\color{#FFCEE3}{\textsf{ 　　𐂯 }}}}$
+${{\color{#ffffff}{\textsf{ 　　𐂯 }}}}$
       ⠀⠀⠀<a href="https://en.pronouns.page/@5ojo">prnpage </a>
       
