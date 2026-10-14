@@ -1,6 +1,6 @@
 <div align="center">
   
-${{\color{#8a2735}{\textsf{DO NOT COPY MY PONIES }}}}$
+${{\color{#ffffff}{\textsf{DO NOT COPY MY PONIES }}}}$
 <br>
 
 <div id="header" align="center">
