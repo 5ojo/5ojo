@@ -27,8 +27,6 @@ ${{\color{#ffffff}{\textsf{DO NOT COPY MY PONIES }}}}$
 </details>
 
 
-<br>
-
 <details>
   <summary>
      ${{\color{#fffff}{\texttt{　dni }}}}$
