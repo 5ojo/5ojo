@@ -29,6 +29,26 @@ ${{\color{#ffffff}{\textsf{DO NOT COPY MY PONIES }}}}$
 
 <br>
 
+<details>
+  <summary>
+     ${{\color{#fffff}{\texttt{　dni }}}}$
+  </summary>
+
+<br>
+
+ships, proshippers, darkshippers, xenophobes, racists, homophobes transphobes, just awful people in general. <br>
+
+flirty weirdos back off, don't try to sexualize or yumeship with my ocs/sonas bruh. 😭 <br>
+( yall got me messed up after someone whispered me if they could have a yumeship with one of my sonas. ) <br>
+
+and for some certain things I didn't mention but I find gross, dw I block freely. <br>
+
+
+</details>
+
+<br>
+
+
 <a href="https://5ojo.atabook.org/?page=1">新book </a>　　
 ${{\color{#ffffff}{\textsf{ 　　𐂯 }}}}$
       ⠀⠀⠀<a href="https://en.pronouns.page/@5ojo">prnpage </a>
