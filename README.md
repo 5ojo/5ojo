@@ -58,4 +58,5 @@ and for some certain things I didn't mention but I find gross, dw I block freely
 <a href="https://5ojo.atabook.org/?page=1">新book </a>　　
 ${{\color{#ffffff}{\textsf{ 　　𐂯 }}}}$
       ⠀⠀⠀<a href="https://en.pronouns.page/@5ojo">prnpage </a>
-      
+
+<a href="https://guns.lol/5ojo">gunslol
