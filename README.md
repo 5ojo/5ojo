@@ -5,7 +5,7 @@ ${{\color{#ffffff}{\textsf{DO NOT COPY MY PONIES }}}}$
 
 <div align="center">
   
-${{\color{#ffffff}{\textsf{chiyo / rei}}}} ![ALT](https://files.catbox.moe/ws3o9v.gif) 
+${{\color{#ffffff}{\textsf{ chiyo / rei }}}}$ ![ALT](https://files.catbox.moe/ws3o9v.gif) 
 <br>
 
 <div id="header" align="center">
