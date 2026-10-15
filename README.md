@@ -3,6 +3,11 @@
 ${{\color{#ffffff}{\textsf{DO NOT COPY MY PONIES }}}}$
 <br>
 
+<div align="center">
+  
+${{\color{#ffffff}{\textsf{chiyo / rei}}}} ![ALT](https://files.catbox.moe/ws3o9v.gif) 
+<br>
+
 <div id="header" align="center">
   
 ![](https://komarev.com/ghpvc/?username=princessatoru&label=𑄝&style=plastic&color=grey) 
